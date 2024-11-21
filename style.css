@@ -1,0 +1,24 @@
+.menu{
+    
+}
+.logo{
+    width: 20px;
+    height: 20px;
+}
+.left{
+    display: inline-block;
+    width: 40%;
+  
+
+}
+.right{
+    display: inline-block;
+    background-color: red;
+    width: 40%;
+}
+.container{
+    
+}
+.footer{
+    background-color: brown;
+}
